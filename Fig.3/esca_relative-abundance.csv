@@ -1,0 +1,18 @@
+annotation,Taxon,A,B,C,D,E,F,G,H,I,J
+Black foot disease,g_Dactylonectria,2.77,3.02,2.35,0.72,1.16,2.41,0.59,0.46,1.13,1.89
+Black foot disease,g_Thelonectria,1.15,1.26,1.47,1.16,1.12,1.66,0.48,0.27,1.21,0.66
+Black foot disease,g_Neonectria,0.88,0.61,0.25,0.06,0.4,0.28,0.58,0.35,0.45,0.22
+Black foot disease,g_Ilyonectria,0.14,0.14,0.15,0.05,0.05,0.03,0.01,0.02,0.05,0.01
+Botryosphaeria dieback,g_Diplodia,0.02,0.05,0.04,0,0,0.09,0.06,0.15,0.09,0
+Botryosphaeria dieback,g_Dothiorella,0.02,0.01,0,0,0,0.01,0.25,0.22,0.13,0
+Botryosphaeria dieback,g_Neofusicoccum,0.02,0.01,0,0,0,0,0.01,0,0,0
+Diaporthe dieback,g_Diaporthe,0,0,0,0,0,0,0.003,0.014,0,0
+Esca,g_Cadophora,0,0,0,0,0,0.01,0,0,0,0
+Esca,g_Coprinellus,0.07,0.04,0.05,0.81,0.04,0.1,0.22,0.25,0.03,0.02
+Esca,g_Fomitiporia,0,0,0,0,0,0.000701667,0,0,0,0
+Esca,g_Phaeoacremonium,0.05,0,0,0,0,0.01,0.51,0.02,0,0
+Esca,g_Phaeomoniella,0,0.001028333,0,0,0,0.002836667,0,0.000666667,0,0
+Esca,g_Stereum,0,0,0,0,0,0.01,0,0,0,0
+Eutypa dieback,g_Cryptovalsa,0.03,0.03,0,0.01,0,0.02,0,0,0.01,0
+Eutypa dieback,g_Didymella,0.517,0.08,0.394,0.141,0.418,0.215,0.04,0.397,0.137,0.224
+Eutypa dieback,g_Neoascochyta,0,0,0.009,0,0.06,0.003,0.008,0.009,0,0
